@@ -1,2 +1,2 @@
 # watanabeNutricao
-Treinado HTML, CSS e Javascript.
+Treinando HTML, CSS e Javascript.
